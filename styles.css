@@ -1,0 +1,52 @@
+body{
+  background-color: lightgrey;
+}
+h1{
+  color:blue;
+  font: verdana;
+  font-size: 250px;
+  font-style: oblique;
+  font-variant: small-caps;
+  margin-top: 100px;
+  text-align:center;
+}
+p{
+  color:purple;
+  font: arial;
+  font-size: 30px;
+  font-weight: lighter;
+  border: 2px solid darkgreen;
+  text-align:justify;
+  text-indent: 50px;
+  margin: 25px 50px;
+  padding: 10px;
+}
+ ul{
+   color: indigo;
+   text-align: center;
+   font-size: 50px;
+   font: arial;
+   list-style-type: none;
+ }
+ ul a:hover{
+   background-color: #555;
+   color: white;
+ }
+ h2{
+   font-size: 60px;
+   color: tomato;
+   text-align: center;
+ }
+img{
+  image-orientation: center;
+  padding: 200px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ol{
+  color: orange;
+  text-align: center;
+  font-size: 50px;
+  font: arial;
+}
